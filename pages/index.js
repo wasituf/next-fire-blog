@@ -74,7 +74,7 @@ export default function Home(props) {
       <Metatags
         title='NextFire Blog | Get your voice out there'
         description='NextFire Blog is the go to social platform to address public concerns and indulge in constructive debates.'
-        image='https://next-fire-blog-wasituf.vercel.app/metatag-img.png'
+        image='https://res.cloudinary.com/wasituf/image/upload/v1663362880/next-fire/metatag-img_gs97m6.png'
       />
       <PostFeed posts={posts} />
 
